@@ -1,0 +1,1 @@
+var blogModel = require('./models.js');
